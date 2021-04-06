@@ -1,0 +1,54 @@
+body
+
+{	
+	background-color:blue;
+} 
+h1
+{    
+	color: red;
+	font-size: 54px;
+
+}
+ul
+{
+	list-style: inherit;
+}
+#container
+{	
+	background-color: white;
+	width: 800px;	
+	margin-left: auto;	
+	margin-right: auto;
+}
+#header
+{	
+	background-color: pink;	
+	color: white;	
+	text-align:center;	
+	padding: 10px;
+}
+ #content
+ {
+	padding: 10px;
+} 
+#nav
+{	
+	width: 150px;
+	float: left;
+	background-color: green;
+
+} 
+#main
+{	
+	background-color: orange;
+	width: 600px;
+	float: right;
+}
+ #footer
+ {
+ 	clear: both;	
+ 	padding: 10px;	
+ 	background-color: blue;	
+ 	color: white;	
+ 	text-align: right;
+ }
